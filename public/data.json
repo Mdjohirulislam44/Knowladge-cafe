@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/4Vh2Wzn/book-cover-1.jpg",
+    "title": "Mastering React Components",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/5GzXkwq/author-1.png",
+    "posted_date": "2025-10-28",
+    "reading_time": 7,
+    "hashtags": ["#React", "#Frontend", "#WebDevelopment"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/Tg7dDqH/book-cover-2.jpg",
+    "title": "Tailwind CSS in Action",
+    "author": "Sarah Khan",
+    "author_img": "https://i.ibb.co/6bQ1nSz/author-2.png",
+    "posted_date": "2025-10-25",
+    "reading_time": 5,
+    "hashtags": ["#TailwindCSS", "#UI", "#Design"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/VpGp7mt/book-cover-3.jpg",
+    "title": "Understanding JavaScript Closures",
+    "author": "Michael Lee",
+    "author_img": "https://i.ibb.co/3R3kH8Y/author-3.png",
+    "posted_date": "2025-10-22",
+    "reading_time": 6,
+    "hashtags": ["#JavaScript", "#Programming", "#Tech"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/5s4v5Rc/book-cover-4.jpg",
+    "title": "Building APIs with Node.js",
+    "author": "Ayesha Rahman",
+    "author_img": "https://i.ibb.co/Fz5t9Qq/author-4.png",
+    "posted_date": "2025-10-20",
+    "reading_time": 8,
+    "hashtags": ["#NodeJS", "#Backend", "#API"]
+  }
+]
